@@ -1,0 +1,52 @@
+.box{
+    height: 30px;
+    width: 100px;
+    font-size: large;
+}
+
+#d, #b, #h, #o{
+    position: absolute;
+    left: 5%;
+}
+
+.d, .b, .o, .h{
+    position: absolute;
+    left: 2%;
+}
+
+#b{
+    position: absolute;
+    top: 10%;
+}
+
+.b{
+    position: absolute;
+    top: 10%;
+}
+
+#o{
+    position: absolute;
+    top: 20%;
+}
+
+.o{
+    position: absolute;
+    top: 20%;
+}
+
+#h{
+    position: absolute;
+    top: 30%;
+}
+
+.h{
+    position: absolute;
+    top: 30%;
+}
+
+#button{
+    position: absolute;
+    top: 5%;
+    left: 15%;
+}
+
